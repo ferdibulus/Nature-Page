@@ -1,0 +1,114 @@
+header{
+    width:1580px;
+    margin:20px 125px;
+    height: 100px;
+    background: white;
+   
+}
+
+.logo{
+    margin-left:30px;
+   width:350px;
+   height: 100px;
+    margin-right:auto;
+    display: block;
+    float:left;
+}
+ul{
+    
+    margin-left: 1225px;
+    font-size: 20px;
+}
+li{
+    margin-top:75px;
+    margin-left:10px;
+    float:left;
+    display:block;
+    text-decoration: block;
+    letter-spacing: 4px;
+    color:#333;
+    transition:all .9s ease;
+    color:black;
+    
+}
+li a{
+    color:black;
+
+}
+li a:hover{
+    
+}
+.container{
+    width:1580px;
+    margin-left: 160px;
+    margin-top: -10px;
+    height:1053px;
+    background-image:url(3.jpg);
+}
+.container1{
+    width:1580px;
+    margin-left: 160px;
+    margin-top: -10px;
+    height:500px;
+  
+}
+.container2{
+    width:1580px;
+    margin-left: 160px;
+    margin-top: -10px;
+    height:600px;
+    background:white;
+    font-size: 25px;
+}
+.parallax{
+    width:1580px;
+    height: 150px;
+    margin-left: 860px;
+  
+
+}
+.parallax1{
+    width:1580px;
+    height: 150px;
+    margin-left: 760px;
+  
+
+}
+.panel1{
+    font-size: 80px;
+    border:ridge;
+    width: 250px;
+   text-align: center;
+    background: darkgreen;
+    color:white;
+    border-radius: 15px;
+}
+.panel{ font-size: 80px;
+    border:ridge;
+    width: 460px;
+   text-align: center;
+    background: darkgreen;
+    color:white;
+    border-radius: 15px;
+}
+.photo{
+  float:left;
+  margin-left:180px;
+ 
+}
+.photo1{
+    float:left;
+    padding:20px;
+    width: 412px;
+    height: 327px;
+}
+.photo2{
+    float:left;
+    padding:20px;
+    width: 412px;
+    height: 327px;
+}
+.photo3{
+    float:left;
+    
+}
